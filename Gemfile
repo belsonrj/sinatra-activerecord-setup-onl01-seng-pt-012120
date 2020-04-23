@@ -6,7 +6,7 @@ source "https://rubygems.org"
   gem 'require_all'
   gem 'activerecord', '5.2'
   gem 'sinatra-activerecord'
-  gem 'rake'
+  gem 'rake', '13.0.1'
  
   group :development do
     gem 'shotgun'
